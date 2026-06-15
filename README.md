@@ -177,7 +177,7 @@ Patients ──< Admissions >── Rooms
 ## 👨‍💻 Author
 
 Theinmozhi W
-- GitHub:git@github.com:Theinmozhi2025/Healthcare-SQL-Project.git
+- GitHub:Theinmozhi2025/Healthcare-SQL-Project.git
 - LinkedIn:www.linkedin.com/in/theinmozhi-w
 
 ---
